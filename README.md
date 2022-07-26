@@ -1,0 +1,2 @@
+# data-analysis-for-MedicalAppointments
+This dataset is drawn from 300,000 primary physician visits in Brazil across 2014  and 2015. The information about the appointment was automatically coded when the  patient scheduled the appointment and then the patient was marked as having either  attended or not. The information about the appointment included demographic data, time  data, and conditions concerning the reason for the visit.
